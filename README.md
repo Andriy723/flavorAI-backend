@@ -8,8 +8,7 @@ This was created as a test task.
 
 ## Available Scripts
 
-## At the very beginning, you need to run this command in your console:
-
+### At the very beginning, you need to run this command in your console:
 ### `cd flavor_ai-backend `
 
 ### 1. Firstly you need to install all dependencies using:
